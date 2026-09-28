@@ -8,7 +8,7 @@ We can divide JavaScript data types into two main categories:
 1. **Primitive Data Types**
 2. **Non-Primitive (Reference) Data Types**
 
-## Primitive Data Types
+### Primitive Data Types
 
 JavaScript has **7 primitive data types**:
 
@@ -20,7 +20,7 @@ JavaScript has **7 primitive data types**:
 - Symbol
 - BigInt
 
-## Non-Primitive Data Types
+### Non-Primitive Data Types
 
 **Objects** are non-primitive data types.
 
@@ -32,6 +32,7 @@ Objects include:
 
 > **Note:** Arrays and functions are technically specialized types of objects in JavaScript.
 
+### Example
 - Number: A number represents both integers and floating-point values. Examples of integers include 7, 19, and 90.
 - Floating point: A floating point number is a number with a decimal point. Examples include 3.14, 0.5, and 0.0001.
 - String: A string is a sequence of characters, or text, enclosed in quotes. "I like coding" and 'JavaScript is fun' are examples of strings.
